@@ -1,0 +1,8 @@
+.teamLogos:hover {
+    -webkit-animation: pulse infinite 1s;
+    animation: pulse infinite 1s;
+}
+
+.season-container {
+    text-align: center;
+}
